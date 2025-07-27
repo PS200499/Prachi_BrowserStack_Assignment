@@ -61,3 +61,5 @@ python tests/browserstack_test.py
 ##Configure BrowserStack credentials
 BROWSERSTACK_USERNAME = "prachisingh_WrTAvo"
 BROWSERSTACK_ACCESS_KEY = "C46LBQpENkdPsTSqTiKA"
+##Google Drive Link
+https://drive.google.com/drive/folders/1_57H8NDLw-LxX6WVtJ5Gf-3oIaXCwVjl
